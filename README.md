@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Drlongff
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-![YuLong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drlongff&show_icons=true&theme=dracula)
+- ![YuLong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drlongff&show_icons=true&theme=dracula)
 
 
 <!---
